@@ -6,7 +6,7 @@ public class MARFS {
 
 	public static void main(String[] args) {
 //     User modifies the following
-		String filename = "lung_cancer.data";
+		String filename = "file_data.data";
 		String decisionAttribute = "d";  		//the data value
 		String positiveNumber = "1";		//positive value. Can be number or string
 //		String negativeNumber = "R";		//negative value. Can be number or string
